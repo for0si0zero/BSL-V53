@@ -33,7 +33,7 @@ Method works on Windows 10, Windows 11, Ubuntu, Linux, and all Linux distributio
 
 6: Open the file `libBSL.c.so` using a Text Editor.
 
-7: Change `redirectHost` to your IP address (How to find?: Click) (and `redirectPort`, if needed) in the configuration. It's important to make these changes in the `MT Manager` program!!!
+7: Change `redirectHost` to your IP address (How to find?: [Click](https://github.com/for0si0zero/BSL-V53/blob/main/READMEen.md#how-to-find-your-ip-address)) (and `redirectPort`, if needed) in the configuration. It's important to make these changes in the `MT Manager` program!!!
 
 8: Save the file by clicking ![image.png](https://raw.githubusercontent.com/for0si0zero/BSL-V53/main/image.png)
 
