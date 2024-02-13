@@ -10,7 +10,7 @@ Method works on Windows 10, Windows 11, Ubuntu, Linux, and all Linux distributio
 
 [I](https://github.com/LkPrtctrd) use a server in zip format from BSDS, which [I](https://github.com/LkPrtctrd) modified, and which was created by [Сrazor](https://github.com/CrazorTheCat) and [risporse](https://github.com/risporce).
 
-1: [Download the server](https://github.com/LkPrtctrd/BSL-V53/archive/refs/heads/master.zip) and extract it.
+1: [Download the server](https://raw.githubusercontent.com/LkPrtctrd/BSL-V53/archive/refs/heads/master.zip) and extract it.
 
 2: Open cmd on your computer and navigate to the server folder.
 
@@ -25,7 +25,7 @@ Method works on Windows 10, Windows 11, Ubuntu, Linux, and all Linux distributio
 
 2: Download `MT Manager`: [here](https://fs273.tbx.su/files10/1909358_304493/mt2.14.5.apk)
 
-3: Change the APK file name `com.bsl.v53-rev1.apk` to `com.bsl.v53-rev1.zip`. Video explanation: [here](https://github.com/for0si0zero/BSL-V53/main/2.mp4)
+3: Change the APK file name `com.bsl.v53-rev1.apk` to `com.bsl.v53-rev1.zip`. Video explanation: [here](https://raw.githubusercontent.com/for0si0zero/BSL-V53/main/2.mp4)
 
 4: Open `com.bsl.v53-rev1.zip`.
 
@@ -35,7 +35,7 @@ Method works on Windows 10, Windows 11, Ubuntu, Linux, and all Linux distributio
 
 7: Change `redirectHost` to your IP address (How to find?: Click) (and `redirectPort`, if needed) in the configuration. It's important to make these changes in the `MT Manager` program!!!
 
-8: Save the file by clicking ![image.png](https://github.com/for0si0zero/BSL-V53/main/image.png)
+8: Save the file by clicking ![image.png](https://raw.githubusercontent.com/for0si0zero/BSL-V53/main/image.png)
 
 9: Go back, and you'll see a dialog box ![image-2.png](image-2.png) first click on the square next to the AUTO SIGN, then click OK. and Wait.
 
