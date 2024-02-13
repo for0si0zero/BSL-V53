@@ -33,7 +33,7 @@ Python Brawl Stars сервер эмулятор для версии 53.176
 
 6: Откройте файл `libBSL.c.so` используя Тексовой Редактор
 
-7: Измените `redirectHost` На ваш ип адресс (Как узнать?: Тык) (и `redirectPort`, если вам это нужно) в конфигурации. Важно то что вы должны изменять это в програме `MT Manager`!!!
+7: Измените `redirectHost` На ваш ип адресс (Как узнать?: [Тык](https://github.com/for0si0zero/BSL-V53/blob/main/READMEru.md#%D0%BA%D0%B0%D0%BA-%D1%83%D0%B7%D0%BD%D0%B0%D1%82%D1%8C-%D0%B2%D0%B0%D1%88-%D0%B8%D0%BF-%D0%B0%D0%B4%D1%80%D0%B5%D1%81)) (и `redirectPort`, если вам это нужно) в конфигурации. Важно то что вы должны изменять это в програме `MT Manager`!!!
 
 8: Сохраните файл нажав на ![image.png](https://raw.githubusercontent.com/for0si0zero/BSL-V53/main/image.png)
 
