@@ -2,7 +2,7 @@
 Python Brawl Stars server emulator for version 53.176
 
 ## Read me | Прочитай Меня
-Tutorial on what to do if you couldn't succeed at https://github.com/LkPrtctrd/BSL-V53/."
+Tutorial on what to do if you couldn't succeed at https://github.com/LkPrtctrd/BSL-V53/.<br>
 Туториал как зделать если у вас неполучилось на https://github.com/LkPrtctrd/BSL-V53/ Зделать.
 
 # Select Language| Выберите Язык
