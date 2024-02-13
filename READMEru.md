@@ -25,7 +25,7 @@ Python Brawl Stars сервер эмулятор для версии 53.176
 
 2: Скачайте `MT Manager`: [тык](https://fs273.tbx.su/files10/1909358_304493/mt2.14.5.apk)
 
-3: Измените Название апк файла `com.bsl.v53-rev1.apk` на `com.bsl.v53-rev1.zip`. Видео объяснение: [тык](https://raw.githubusercontent.com/for0si0zero/BSL-V53/main/1.mp4)
+3: Измените Название апк файла `com.bsl.v53-rev1.apk` на `com.bsl.v53-rev1.zip`. Видео объяснение: ![тык](https://raw.githubusercontent.com/for0si0zero/BSL-V53/main/1.mp4)
 
 4: Откройте `com.bsl.v53-rev1.zip`.
 
